@@ -28,6 +28,5 @@ Nunca é tarde para começar a programar 😄
 
 ### Adicionais: 📕
 
-- Atualmente estou cursando Desenvolvimento de Sistemas no SENAI.
-- Atualmente estou cursando Virtualização do Windows com Hyper-V no SENAC.
-- FRONT-END 💻.
+- Atualmente estou cursando Desenvolvimento de Sistemas na instituição SENAI.
+- Atualmente estou cursando Virtualização do Windows com Hyper-V na instituição SENAC.
