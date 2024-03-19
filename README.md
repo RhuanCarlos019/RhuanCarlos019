@@ -8,11 +8,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rhuann_carllos?igsh=MTZmaWpsOTFjdjA2Yg==)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhuan-prazeres-256404221?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-### Minhas stats: 📊
+## Minhas stats: 📊
 ![Rhuan Github stats](https://github-readme-stats.vercel.app/api?username=RhuanCarlos019&show_icons=true&theme=dracula)
 ![Rhuan github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RhuanCarlos019&theme=dracula)
 
-### Tecnologias que uso no meu dia a dia: 📱
+## Tecnologias que uso no meu dia a dia: 📱
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
