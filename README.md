@@ -1,6 +1,9 @@
 ## Olá, eu sou o Rhuan, seja bem-vindo ao meu Github! 👋
 
-### Me encontre por aqui 👇
+
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+
+## Me encontre por aqui 👇
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rhuann_carllos?igsh=MTZmaWpsOTFjdjA2Yg==)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhuan-prazeres-256404221?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
