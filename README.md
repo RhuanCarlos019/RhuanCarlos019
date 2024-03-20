@@ -29,6 +29,6 @@
 
 Nunca é tarde para começar a programar 😄
 
-### Adicionais: 📕
+## Adicionais: 📕
 
 - Atualmente estou cursando Desenvolvimento de Sistemas na instituição SENAI.
